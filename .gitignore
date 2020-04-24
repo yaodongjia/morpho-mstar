@@ -6,6 +6,9 @@ data/images/*
 metadata_valid_morphid.tsv
 *.bckup
 
+*.bat
+astrohack_py36
+
 # Default python .gitignore
 # Byte-compiled / optimized / DLL files
 __pycache__/
